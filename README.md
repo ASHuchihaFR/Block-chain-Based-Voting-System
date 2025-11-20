@@ -26,7 +26,3 @@ Create a Project, add these sources under `src/`, and run `VotingSystemGUI` or `
 - Username: `admin`
 - Password: `admin123`
 
-## Notes
-- In-memory data (no DB). Data resets on exit, as per the original description.
-- For demo purposes, a block is mined every 5 votes; click "Refresh & Mine Pending" in Admin to force mining.
-- This code mirrors the structure and features outlined in your report and synopsis.
